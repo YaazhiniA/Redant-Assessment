@@ -1,0 +1,12 @@
+Redant Assessment
+
+Question no : 2
+
+Languages used : 
+HTML5, 
+CSS 2.1,
+Bootstrap 3.3.7,
+PHP 8.0.3
+
+Editor : vscode
+
